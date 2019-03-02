@@ -7,8 +7,15 @@ return string.toUpperCase()
 console.log(whisper) {
   return string.tolowercase()
 }
-sayHiTo ('Grandma')
 sayHiToGrandma(string) {
-  console.log('Hi, Grandma')
-return string. "YES INDEED"
+  console.log('I can"t hear you!')
+return string.tolowercase()
+}
+sayHiToGrandma(string) {
+  console.log ('YES INDEED')
+  return string.toUpperCase()
+}
+sayHiToGrandma(string) {
+  console.log ('I love you, Grandma')
+  return string.to ('I love you, too.')
 }
