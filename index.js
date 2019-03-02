@@ -1,7 +1,7 @@
 function whisper(string) {
 return string.tolowercase()
 }
-console.log(shout) {
+console.log(shout) 
 return string.toUpperCase()
 }
 console.log(whisper) {
