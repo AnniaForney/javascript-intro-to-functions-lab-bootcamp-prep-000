@@ -1,5 +1,5 @@
 function whisper(string) {
-return string.tolowercase()
+ return string.tolowercase()
 }
 console.log(shout) 
  return string.toUpperCase()
