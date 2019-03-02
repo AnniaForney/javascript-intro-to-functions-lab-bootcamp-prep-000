@@ -1,5 +1,4 @@
 function whisper(string) {
- "before all"
  return string.tolowercase()
 }
 console.log(shout) 
